@@ -1,0 +1,195 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld" : {
+
+    },
+    "₹%@" : {
+
+    },
+    "Add_1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जोड़ें"
+          }
+        }
+      }
+    },
+    "Add_2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ADD"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जोड़ें"
+          }
+        }
+      }
+    },
+    "CGST (2.5%)" : {
+
+    },
+    "English" : {
+
+    },
+    "Error: %@" : {
+
+    },
+    "Grand_Total" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grand Total"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "कुल योग"
+          }
+        }
+      }
+    },
+    "Hello, world!" : {
+
+    },
+    "Key" : {
+      "extractionState" : "manual"
+    },
+    "Net_Total" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Net Total"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "शुद्ध योग"
+          }
+        }
+      }
+    },
+    "OK" : {
+
+    },
+    "Order Status" : {
+
+    },
+    "Place_order" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Place order"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ऑर्डर करें"
+          }
+        }
+      }
+    },
+    "Placing_order" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Placing Order…"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ऑर्डर दे रहा है"
+          }
+        }
+      }
+    },
+    "Qty: %lld" : {
+
+    },
+    "restaurant_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurant"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रेस्टोरेंट"
+          }
+        }
+      }
+    },
+    "SGST (2.5%)" : {
+
+    },
+    "top_rated_dishes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top rated dishes"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "शीर्ष रेटेड व्यंजन"
+          }
+        }
+      }
+    },
+    "Your Cart" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Cart"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "आपका थैला"
+          }
+        }
+      }
+    },
+    "हिन्दी" : {
+
+    }
+  },
+  "version" : "1.0"
+}
